@@ -1,0 +1,22 @@
+Ans1 - (Upload that excel File (part1))
+Ans2 - Yes
+Ans3 - Yes
+Ans4 - Yes
+Ans5 - Yes
+Ans6 - Yes
+Ans7 - (Upload that excel File (part2))
+Ans8 - YES, I have used the format as the Table option to format the data as a table.
+
+Ans9: 
+
+SUM = 1582
+AVERAGE = 32.28571429
+MIN = 1
+MAX = 379
+COUNT = 49
+
+Ans10 - Yes
+Ans11 - Yes
+Ans12 - Yes
+Ans13 - Yes
+Ans14 - Yes
